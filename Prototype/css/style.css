@@ -1,0 +1,17 @@
+.navbar-default .navbar-brand{
+    font-size: 30px;
+    line-height: 40px ;
+    color: rgb(62, 118, 223);
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+.navbar-default .navbar-nav > li > a{
+    color: cornflowerblue;
+    font-size: 20px;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus{
+    color: cornflowerblue;
+    font-size: 20px;
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form{
+    padding: 10px;
+}

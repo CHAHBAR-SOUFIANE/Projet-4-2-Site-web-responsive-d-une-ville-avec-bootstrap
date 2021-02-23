@@ -1,0 +1,41 @@
+.navbar-default .navbar-brand{
+    font-size: 40px;
+    line-height: 40px ;
+    color: rgb(62, 118, 223);
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+.navbar-default .navbar-nav > li > a{
+    color: cornflowerblue;
+    font-size: 20px;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus{
+    color: cornflowerblue;
+    font-size: 20px;
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form{
+    padding: 10px;
+}
+/* .myslide{
+    height: 100px;
+} */
+.carousel-inner{
+    height: 88vh;
+}
+.carousel-control.right{
+    height: 60vh;
+}
+.carousel-control.left{
+    height: 60vh;
+}
+.carousel-control .glyphicon-chevron-right, .carousel-control .icon-next{
+    margin-top: 3vh;
+}
+.carousel-control .glyphicon-chevron-left, .carousel-control .icon-prev{
+    margin-top: 3vh;
+}
+.carousel-control .icon-next, .carousel-control .glyphicon-chevron-right{
+    margin-top: 15vh;
+}
+.carousel-control .icon-prev, .carousel-control .glyphicon-chevron-left{
+    margin-top: 15vh;
+}
